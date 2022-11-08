@@ -1,0 +1,15 @@
+{
+  "qInfo": {
+    "qId": "50b96a1d-0bcf-4a3c-902e-69b4e84a417a",
+    "qType": "variable"
+  },
+  "qMetaDef": {},
+  "qName": "matches",
+  "qNumberPresentation": {
+    "qType": "U",
+    "qnDec": 10,
+    "qUseThou": 0
+  },
+  "qDefinition": "0",
+  "qIsScriptCreated": true
+}

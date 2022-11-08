@@ -1,0 +1,62 @@
+[
+  {
+    "qName": "Fieldname of the account field in your transaction table",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Options"
+    ]
+  },
+  {
+    "qName": "For extra fields, e.g CostCenter, Name of the field ni your transaction table and must be the same as the column in this Excel-file. Works the same as the Account field but is completely flexible.",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Options"
+    ]
+  },
+  {
+    "qName": "H",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Options"
+    ]
+  },
+  {
+    "qName": "Name of extra rows you want to create row groups for. Use 'FieldName','FieldName2' as format",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Options"
+    ]
+  },
+  {
+    "qName": "Name of your transaction table",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Options"
+    ]
+  },
+  {
+    "qName": "Refers to sheet you want to create a report dimension for",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Options"
+    ]
+  }
+]
